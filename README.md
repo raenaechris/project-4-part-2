@@ -6,7 +6,7 @@ Submitted by: **Raegan Anderson**
 
 **Flixster+** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
